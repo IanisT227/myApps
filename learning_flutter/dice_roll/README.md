@@ -1,6 +1,6 @@
-# dice_roller
+# dice_roll
 
-First Flutter Project
+A new Flutter project.
 
 ## Getting Started
 
