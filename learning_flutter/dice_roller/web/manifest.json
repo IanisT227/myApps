@@ -1,11 +1,11 @@
 {
-    "name": "dice_roll",
-    "short_name": "dice_roll",
+    "name": "dice_roller",
+    "short_name": "dice_roller",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "First Flutter Project",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
