@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "kmp-app",
+            "name": "Kmp-app configuration",
+            "module": "composeApp\src\commonMain\kotlin\com\jetbrains\greeting\App.kt",
+        },
+        
+    ]
+}
