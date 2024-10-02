@@ -4,11 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myfirstjetpackcomposeapp"
-    compileSdk = 34
 
+    namespace = "com.example.myfirstjetpackapp"
+    compileSdk = 34
     defaultConfig {
-        applicationId = "com.example.myfirstjetpackcomposeapp"
+        applicationId = "com.example.myfirstjetpackapp"
+
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -59,6 +60,8 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation("androidx.compose.material:material-icons-extended")
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

@@ -18,7 +18,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
-rootProject.name = "MyFirstJetpackComposeApp"
+rootProject.name = "MyFirstJetpackApp"
 include(":app")
  
