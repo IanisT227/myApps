@@ -95,8 +95,6 @@ fun PlantDetailContent(plant: Plant) {
             PlantDescription(plant.description)
         }
     }
-
-
 }
 
 @Composable
