@@ -93,9 +93,6 @@ fun PlantDetailContent(plant: Plant) {
             PlantName(name = plant.name)
             PlantWatering(wateringInterval = plant.wateringInterval)
             PlantDescription(plant.description)
-            Row(Modifier.align(horizontalAlignment.CenterEnd)) {
-
-            }
         }
     }
 
